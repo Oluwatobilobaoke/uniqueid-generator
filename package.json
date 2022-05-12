@@ -4,7 +4,7 @@
   "description": "",
   "license": "MIT",
   "scripts": {
-    "prestart": "npm run build",
+    "prestart": "npm run build-ts",
     "start": "node dist/server.js",
     "serve": "node dist/server.js",
     "build-ts": "tsc",
