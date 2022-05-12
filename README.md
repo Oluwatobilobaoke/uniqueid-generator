@@ -1,6 +1,15 @@
 # unique Id generator
 Node.js Application with Typescript
 
+## live url
+```
+https://unique-id-generator.herokuapp.com/
+```
+
+## documentation
+```
+https://documenter.getpostman.com/view/8996154/UyxhmSZm
+```
 # Pre-requisite
 1. You need to have [Node.js](https://nodejs.org/en/) installed.
 2. You should also install [VS Code](https://code.visualstudio.com/)
